@@ -1,38 +1,15 @@
-# create-svelte
+# Creativity App for Kids
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Our aim with this application is to teach kids about programming by creating a site they can showcase their
+work and also introduce newer developers to databases.
 
-## Creating a project
+## Part of HacktoberFest 2022
 
-If you're seeing this, you've probably already done this step. Congrats!
+We aim to share this project with the wider Open Source community. PRs are welcome that aid in a Starter Kit that kids can start their own showcase page.
 
-```bash
-# create a new project in the current directory
-npm init svelte
+## Stack
 
-# create a new project in my-app
-npm init svelte my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+1. SvelteKit
+2. TailwindCSS
+3. SupaBase
+4. Netlify

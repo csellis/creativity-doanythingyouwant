@@ -53,7 +53,7 @@ git commit -m "<appropriate_commit_message>"
 git push origin <branch_name>
 ```
 
-**Step 9:** Create a pull request:
+**Step 10:** Create a pull request:
 
 1. Go to the `pull requests` page on the original repository.
 2. Click on `compare & pull request` option visible on the top.

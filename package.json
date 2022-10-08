@@ -17,5 +17,8 @@
     "svelte-preprocess": "^4.10.7",
     "tailwindcss": "^3.1.4"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.7"
+  }
 }

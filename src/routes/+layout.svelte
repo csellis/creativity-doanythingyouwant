@@ -1,5 +1,7 @@
 <script>
   import "../app.css";
+  import {supabase} from '../services/supabase'
+  console.log(supabase)
 </script>
 
 <div class="bg-yellow-50 min-h-screen">

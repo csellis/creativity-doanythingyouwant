@@ -13,3 +13,9 @@ We aim to share this project with the wider Open Source community. PRs are welco
 2. TailwindCSS
 3. SupaBase
 4. Netlify
+
+## Supabase
+
+1. Signup for a free account at Supabase and make note of your Project URL and Anon Key.
+2. Create a `.env` file and add `VITE_PUBLIC_SUPABASE_URL` and `VITE_PUBLIC_SUPABASE_ANON_KEY`.
+3. Boot up and console log the supabase service.
